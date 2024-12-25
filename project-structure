@@ -1,0 +1,15 @@
+crane-rental-website/
+├── index.html
+├── css/
+│   ├── style.css
+│   └── responsive.css
+├── js/
+│   ├── main.js
+│   └── translate.js
+└── images/
+    ├── hero-crane.jpg       # 1920x1080px hero image
+    ├── mobile-crane.jpg     # 800x600px equipment image
+    ├── tower-crane.jpg      # 800x600px equipment image
+    ├── crawler-crane.jpg    # 800x600px equipment image
+    ├── client1.jpg         # 200x200px review avatar
+    └── client2.jpg         # 200x200px review avatar 
